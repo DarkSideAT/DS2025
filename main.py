@@ -16,3 +16,9 @@ if __name__ == '__main__':
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 
 # проверка коммита
+
+
+def finc(name, sorname):
+    return print(f"{name}  {sorname}")
+
+finc("Alex", "Shumaher")
